@@ -1,1 +1,1 @@
-# Ensemble-Learning-for-Personal-Loan-Classification
+This project analyzes customer response to a personal loan marketing campaign using ensemble learning methods. Using the Universal Bank dataset, multiple classification models—including decision trees, random forests, boosting, logistic regression, and stacking—are built and compared to predict whether a customer accepts a personal loan. Model performance is evaluated using error rates to identify the most effective approach for customer targeting and lead generation.
